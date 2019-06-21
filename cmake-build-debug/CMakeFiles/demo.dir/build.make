@@ -79,6 +79,7 @@ demo_EXTERNAL_OBJECTS =
 
 demo.exe: CMakeFiles/demo.dir/main.c.obj
 demo.exe: CMakeFiles/demo.dir/build.make
+demo.exe: chinese/libCHINESE.a
 demo.exe: CMakeFiles/demo.dir/linklibs.rsp
 demo.exe: CMakeFiles/demo.dir/objects1.rsp
 demo.exe: CMakeFiles/demo.dir/link.txt

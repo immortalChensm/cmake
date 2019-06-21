@@ -6,15 +6,3 @@
 
 #IncludeRegexTransform: 
 
-E:/c/demo/php/chinese/words.h
-
-E:/c/demo/php/main.c
-stdio.h
--
-math/sqrt.h
-E:/c/demo/php/math/sqrt.h
-chinese/words.h
-E:/c/demo/php/chinese/words.h
-
-E:/c/demo/php/math/sqrt.h
-
