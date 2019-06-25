@@ -1,0 +1,2 @@
+D:\posix\mingw64\bin\ar.exe qc libMYMATH.a  CMakeFiles/MYMATH.dir/myMath.c.obj
+D:\posix\mingw64\bin\ranlib.exe libMYMATH.a
