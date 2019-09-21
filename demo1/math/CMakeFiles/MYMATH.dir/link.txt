@@ -1,0 +1,2 @@
+/bin/ar cr libMYMATH.a  CMakeFiles/MYMATH.dir/myMath.c.o
+/bin/ranlib libMYMATH.a

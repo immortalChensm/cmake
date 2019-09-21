@@ -1,0 +1,3 @@
+/usr/local/bin/demo1
+/usr/local/bin/libMYMATH.a
+/usr/local/include/myMath.h

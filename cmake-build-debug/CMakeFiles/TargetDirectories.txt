@@ -1,6 +1,0 @@
-E:/c/demo/php/cmake-build-debug/CMakeFiles/demo.dir
-E:/c/demo/php/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/c/demo/php/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/c/demo/php/cmake-build-debug/chinese/CMakeFiles/edit_cache.dir
-E:/c/demo/php/cmake-build-debug/chinese/CMakeFiles/CHINESE.dir
-E:/c/demo/php/cmake-build-debug/chinese/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/c-project/cmake/demo5/CMakeFiles/demo1.dir
+/home/c-project/cmake/demo5/say/CMakeFiles/say.dir
+/home/c-project/cmake/demo5/talk/CMakeFiles/talk.dir

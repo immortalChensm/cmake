@@ -1,0 +1,2 @@
+/bin/ar cr libMATH.a  CMakeFiles/MATH.dir/sqrt.c.o
+/bin/ranlib libMATH.a

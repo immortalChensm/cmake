@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/c-project/cmake/chinese/words.h
+
+/home/c-project/cmake/main.c
+stdio.h
+-
+math/sqrt.h
+/home/c-project/cmake/math/sqrt.h
+chinese/words.h
+/home/c-project/cmake/chinese/words.h
+
+/home/c-project/cmake/math/sqrt.h
+

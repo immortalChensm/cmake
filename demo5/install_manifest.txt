@@ -1,0 +1,5 @@
+/usr/local/bin/demo1
+/usr/local/bin/libtalk.a
+/usr/local/include/talk.h
+/usr/local/bin/libsay.a
+/usr/local/include/say.h

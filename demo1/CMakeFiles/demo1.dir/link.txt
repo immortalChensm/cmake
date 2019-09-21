@@ -1,0 +1,1 @@
+/bin/cc      CMakeFiles/demo1.dir/main.c.o  -o demo1 -rdynamic math/libMYMATH.a 

@@ -1,0 +1,2 @@
+/bin/ar cr libtalk.a  CMakeFiles/talk.dir/talk.c.o
+/bin/ranlib libtalk.a

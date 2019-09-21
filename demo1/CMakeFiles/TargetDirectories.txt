@@ -1,0 +1,2 @@
+/home/c-project/cmake/demo1/math/CMakeFiles/MYMATH.dir
+/home/c-project/cmake/demo1/CMakeFiles/demo1.dir

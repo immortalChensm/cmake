@@ -1,0 +1,1 @@
+/bin/cc      CMakeFiles/demo1.dir/demo.c.o  -o demo1 -rdynamic say/libsay.a talk/libtalk.a 

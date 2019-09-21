@@ -1,0 +1,2 @@
+/bin/ar cr libsay.a  CMakeFiles/say.dir/say.c.o
+/bin/ranlib libsay.a

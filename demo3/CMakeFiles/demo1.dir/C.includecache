@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/c-project/cmake/demo3/talk.c
+talk.h
+/home/c-project/cmake/demo3/talk.h
+stdio.h
+-
+
+/home/c-project/cmake/demo3/talk.h
+
