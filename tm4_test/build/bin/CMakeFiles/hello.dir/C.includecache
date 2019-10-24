@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/c-project/cmake/tm4_test/src/main.c
+main.h
+/home/c-project/cmake/tm4_test/src/main.h
+hello.h
+-
+
+/home/c-project/cmake/tm4_test/src/main.h
+stdio.h
+-
+

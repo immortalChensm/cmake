@@ -1,0 +1,7 @@
+ADD_EXECUTABLE(main main.c)
+INCLUDE_DIRECTORIES(/usr/local/include/hello)
+#LINK_DIRECTORIES(/usr/local/lib)
+FIND_LIBRARY(LIBHELLO hello /usr/local/lib)
+TARGET_LINK_LIBRARIES(main ${LIBHELLO})
+#TARGET_LINK_LIBRARIES(main hello)
+#ADD_EXECUTABLE(main main.c)

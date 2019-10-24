@@ -1,0 +1,2 @@
+/bin/ar cr libhello.a  CMakeFiles/hello_static.dir/hello.o
+/bin/ranlib libhello.a
