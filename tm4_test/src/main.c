@@ -1,9 +1,8 @@
-#include "main.h"
-#include <hello.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(void)
 {
-	helloFunc();
-
+	printf("hello\n");
 	return 0;
 }
